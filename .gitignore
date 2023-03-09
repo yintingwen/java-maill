@@ -13,6 +13,7 @@ buildNumber.properties
 .idea
 */mvnw
 */mvnw.cmd
+*.iml
+./*.iml
 */.mvn/
 */target/
-*/*.iml
